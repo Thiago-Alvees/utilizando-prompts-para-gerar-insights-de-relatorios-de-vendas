@@ -1,0 +1,1 @@
+# utilizando-prompts-para-gerar-insights-de-relatorios-de-vendas
